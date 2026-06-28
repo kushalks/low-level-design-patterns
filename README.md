@@ -8,6 +8,7 @@ interview preparation (SDE-3 / Senior Software Engineer at product companies).
 | Design | Folder | Highlights |
 |--------|--------|-----------|
 | E-Commerce Application (Amazon-style) | [ecommerce-lld/](ecommerce-lld/) | Strategy, State, Observer, Factory, Builder patterns; SOLID; concurrency-safe inventory. Runnable end-to-end demo. |
+| BookMyShow / Ticket Booking | [bookmyshow-lld/](bookmyshow-lld/) | Concurrent seat booking (no double-booking); time-boxed seat locks + double-checked locking; Strategy/Factory/Observer; SOLID. Runnable demo with a 10-thread seat race. |
 
 ## Running a design
 
